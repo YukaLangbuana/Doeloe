@@ -1,0 +1,36 @@
+body {
+  padding: 5%
+}
+
+h1 {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-style: underline;
+}
+
+.baru {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+.lama {
+  padding-top: 20px;
+  font-family: 'Special Elite', cursive;
+}
+
+.footer {
+  font-family: 'Raleway', sans-serif;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+#inputEjaanBaru {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-size: 20px
+}
+
+#ejaanLama {
+  font-family: 'Special Elite', cursive;
+  font-size: 20px;
+}
