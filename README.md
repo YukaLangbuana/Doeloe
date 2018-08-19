@@ -10,4 +10,4 @@ into this (Ejaan Repoeblik):
 "Konon oeang - oeang repoeblik dibawa kaboer ke soerabaja."
 ```
 
-Share it to your friends or play it yourself at yukalangbuana.github.io/doloe
+Share it to your friends or play it yourself at https://yukalangbuana.github.io/doloe
