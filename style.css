@@ -3,8 +3,17 @@ body {
 }
 
 h1 {
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-style: underline;
+}
+
+a {
+  color: royalblue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: royalblue;
+  text-decoration: none;
 }
 
 .baru {
