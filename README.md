@@ -1,4 +1,4 @@
-# Doloe
+# Doeloe
 Basically it allows you to convert this:
 
 ```
